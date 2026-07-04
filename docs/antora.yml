@@ -1,9 +1,9 @@
 name: management-center
 title: Management Center
 # Version in the URL
-version: '5.10-snapshot'
+version: '5.11-snapshot'
 # Version in the version selector
-display_version: '5.10-SNAPSHOT'
+display_version: '5.11-SNAPSHOT'
 prerelease: true
 asciidoc:
   attributes:
